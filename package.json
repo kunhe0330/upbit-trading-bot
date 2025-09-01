@@ -1,0 +1,17 @@
+  {
+    "name": "upbit-trading-bot",
+    "version": "1.0.0",
+    "description": "업비트 이더리움 자동매수 봇",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "jsonwebtoken": "^9.0.0",
+      "axios": "^1.4.0"
+    },
+    "engines": {
+      "node": "20"
+    }
+  }
